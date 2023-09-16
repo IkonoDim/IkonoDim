@@ -28,7 +28,7 @@ I'm a 14 y/o developer based in Germany 🇩🇪 with a passion for coding. 🖥
 
 ### Other
 ![raspberry](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
-## Github Profile - IDEs and Operating Systems
+## IDEs and Operating Systems
 
 ![pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![webstorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
