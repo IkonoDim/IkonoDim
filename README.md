@@ -4,11 +4,6 @@
 
 ## 🚀 About Me
 I'm a 14 y/o developer based in Germany 🇩🇪 with a passion for coding. 🖥️ I have a diverse background, being 3/4 Greek and 1/4 German. My coding journey is just beginning, and I'm excited to explore the world of tech! 🚀
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-
 
 ## 📝 Currently learning
 ![golang](https://img.shields.io/badge/GoLang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
