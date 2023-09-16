@@ -26,13 +26,15 @@ I'm a 14 y/o developer based in Germany 🇩🇪 with a passion for coding. 🖥
 ![node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![discord.py](https://img.shields.io/badge/Discord.py-7289DA?style=for-the-badge&logo=discord&logoColor=white)
-## Other Common Github Profile Sections
+
+## Other
 👩‍💻 I'm currently working on `some tasks my computer science teacher gave me`
 
 🧠 I'm currently learning ![golang](https://img.shields.io/badge/GoLang-00ADD8?style=flat&logo=go&logoColor=white)
 
-📫 How to reach me
+📫 How to reach me: 
 ![discord](https://img.shields.io/badge/@gta_vi-7289DA?style=social&logo=discord&logoColor=7289DA)
+
 ![email](https://img.shields.io/badge/dimitrios.ikonomou@lessing--online.de-D14836?style=social&logo=gmail&logoColor=black)
 
 😄 Pronouns `he/him`
