@@ -46,7 +46,7 @@ I'm a 14 y/o developer based in Germany 🇩🇪 with a passion for coding. 🖥
 
 📫 How to reach me
 
-![discord](https://img.shields.io/badge/@gta_vi-7289DA?style=social&logo=discord&logoColor=7289DA) ![email](https://img.shields.io/badge/dimitrios.ikonomou@lessing--online.de-D14836?style=social&logo=gmail&logoColor=black)
+![discord](https://img.shields.io/badge/@gta__vi-7289DA?style=social&logo=discord&logoColor=7289DA) ![email](https://img.shields.io/badge/dimitrios.ikonomou@lessing--online.de-D14836?style=social&logo=gmail&logoColor=black)
 
 😄 Pronouns `he/him`
 
