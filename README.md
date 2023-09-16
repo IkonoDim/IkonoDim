@@ -4,7 +4,6 @@
 
 ## 🚀 About Me
 I'm a 14 y/o developer based in Germany 🇩🇪 with a passion for coding. 🖥️ I have a diverse background, being 3/4 Greek and 1/4 German. My coding journey is just beginning, and I'm excited to explore the world of tech! 🚀
-
 ## 📝 Currently learning
 ![golang](https://img.shields.io/badge/GoLang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ## 🛠 Skills
@@ -27,16 +26,29 @@ I'm a 14 y/o developer based in Germany 🇩🇪 with a passion for coding. 🖥
 ![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![discord.py](https://img.shields.io/badge/Discord.py-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 
+### Other
+![raspberry](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
+## Github Profile - IDEs and Operating Systems
+
+![pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![webstorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
+![goland](https://img.shields.io/badge/Goland-000000?style=for-the-badge&logo=GoLand&logoColor=white)
+
+![raspbian](https://img.shields.io/badge/raspbian-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
+![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![wearos](https://img.shields.io/badge/-Wear%20OS-4285F4?style=for-the-badge&logo=wear-os&logoColor=white)
+![windows](	https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ## Other
 👩‍💻 I'm currently working on `some tasks my computer science teacher gave me`
 
 🧠 I'm currently learning ![golang](https://img.shields.io/badge/GoLang-00ADD8?style=flat&logo=go&logoColor=white)
 
-📫 How to reach me: 
+📫 How to reach me
 
 ![discord](https://img.shields.io/badge/@gta_vi-7289DA?style=social&logo=discord&logoColor=7289DA) ![email](https://img.shields.io/badge/dimitrios.ikonomou@lessing--online.de-D14836?style=social&logo=gmail&logoColor=black)
 
 😄 Pronouns `he/him`
 
-⚡️ Fact `Html isn't a programming language`
+⚡️ Fact: Html isn't a programming language
 
