@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm a 14 y/o developer based in Germany 🇩🇪 with a passion for coding. 🖥️ I have a diverse background, being 3/4 Greek and 1/4 German. My coding journey is just beginning, and I'm excited to explore the world of tech! 🚀
+I'm a 15 y/o developer based in Germany 🇩🇪 with a passion for coding. 🖥️ I have a diverse background, being 3/4 Greek and 1/4 German. My coding journey is just beginning, and I'm excited to explore the world of tech! 🚀
 ## 📝 Currently learning
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white))
 ## 🛠 Skills
