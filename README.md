@@ -5,14 +5,20 @@
 ## 🚀 About Me
 I'm a 15 y/o developer based in Germany 🇩🇪 with a passion for coding. 🖥️ I have a diverse background, being 3/4 Greek and 1/4 German. My coding journey is just beginning, and I'm excited to explore the world of tech! 🚀
 ## 📝 Currently learning
-![golang](https://img.shields.io/badge/GoLang-00ADD8?style=flat&logo=go&logoColor=white)
+
 ## 🛠 Skills
 ### Programming Languages & Technologies
+#### Languages I know really well
 ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![md](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+#### Languages I have some experience with
+![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![golang](https://img.shields.io/badge/GoLang-00ADD8?style=flat&logo=go&logoColor=white)
+![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
 ### Databases
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
