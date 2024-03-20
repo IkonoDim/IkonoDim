@@ -15,7 +15,7 @@ I'm a 15 y/o developer based in Germany 🇩🇪 with a passion for coding. 🖥
 ![md](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 #### Languages I have some experience with
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![golang](https://img.shields.io/badge/GoLang-00ADD8?style=flat&logo=go&logoColor=white)
+![golang](https://img.shields.io/badge/GoLang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
