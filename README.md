@@ -4,7 +4,6 @@
 
 ## 🚀 About Me
 I'm a 15 y/o developer based in Germany 🇩🇪 with a passion for coding. 🖥️ I have a diverse background, being 3/4 Greek and 1/4 German. My coding journey is just beginning, and I'm excited to explore the world of tech! 🚀
-## 📝 Currently learning
 
 ## 🛠 Skills
 ### Programming Languages & Technologies
