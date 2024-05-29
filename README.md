@@ -38,6 +38,7 @@ I'm a 15 y/o developer based in Germany 🇩🇪 with a passion for coding. 🖥
 ![pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![webstorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
 ![goland](https://img.shields.io/badge/Goland-000000?style=for-the-badge&logo=GoLand&logoColor=white)
+![clion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=CLion&logoColor=white)
 
 ![raspbian](https://img.shields.io/badge/raspbian-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
