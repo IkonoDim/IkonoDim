@@ -45,7 +45,6 @@ I'm a 15 y/o developer based in Germany 🇩🇪 with a passion for coding. 🖥
 ![wearos](https://img.shields.io/badge/-Wear%20OS-4285F4?style=for-the-badge&logo=wear-os&logoColor=white)
 ![windows](	https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ## Other
-👩‍💻 I'm currently working on `some tasks my computer science teacher gave me`
 
 🧠 I'm currently learning ![golang](https://img.shields.io/badge/GoLang-00ADD8?style=flat&logo=go&logoColor=white)
 
