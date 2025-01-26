@@ -1,4 +1,5 @@
-![discord](https://img.shields.io/badge/@gta_vi-7289DA?style=social&logo=discord&logoColor=7289DA)
+![discord](https://img.shields.io/badge/@gta__vi-7289DA?style=plastic&logo=discord&logoColor=white)
+![email](https://img.shields.io/badge/dimitrios@ikonomou.me-D14836?style=plastic&logo=gmail&logoColor=white)
 # Hi, I'm Dimi! 👋
 
 ## 🚀 About Me
